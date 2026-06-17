@@ -1,0 +1,7 @@
+path: /home/dhruv/Documents/projects/Fruit-Quality-Classification/Dataset/detection_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: apple
